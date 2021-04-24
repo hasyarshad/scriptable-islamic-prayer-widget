@@ -17,4 +17,4 @@ Add Prayer-time.js and no-background.js to Scriptable on your device by download
 Data is taken from [Aladhan Api](https://aladhan.com/prayer-times-api#GetTimings).
 
 ## Credit
-Thanks to @Frazeiy for sharing the basic widget on reddit.
+Thanks to [Frazeiy](https://github.com/Frazey) for sharing the basic widget on reddit.
